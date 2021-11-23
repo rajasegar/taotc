@@ -31,14 +31,18 @@ export const KNOWN_LANGUAGES = {
 
 export const SIDEBAR = {
   en: [
-    { text: '', header: true },
-    { text: 'Section Header', header: true },
+    { text: 'Table of Contents', header: true },
     { text: 'Introduction', link: 'en/introduction' },
     { text: 'Survivorship Bias', link: 'en/survivorship-bias' },
-    { text: 'Page 2', link: 'en/page-2' },
-    { text: 'Page 3', link: 'en/page-3' },
+    { text: 'Swimmer\'s Body Illusion', link: 'en/swimmers-body-illusion' },
+    { text: 'Clustering  Illusion', link: 'en/clustering-illusion' },
+    { text: 'Social Proof', link: 'en/social-proof' },
+    { text: 'Sunk Cost Fallacy', link: 'en/sunk-cost-fallacy' },
+    { text: 'Reciprocity', link: 'en/reciprocity' },
+    { text: 'Confirmation Bias', link: 'en/confirmation-bias' },
+    { text: 'Authority Bias', link: 'en/authority-bias' },
 
-    { text: 'Another Section', header: true },
-    { text: 'Page 4', link: 'en/page-4' },
+    // { text: 'Another Section', header: true },
+    // { text: 'Page 4', link: 'en/page-4' },
   ],
 };
