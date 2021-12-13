@@ -6,9 +6,15 @@ layout: ../../layouts/MainLayout.astro
 
 ### Does Harvard Make You Smarter?
 
-People systematically over-estimate their chances of success.
+Confusing selection factors with results
 
+Whenever we confuse selection factors with results, we fall prey to what Taleb calls the `swimmer's body illusion`.
 
-In daily life, because triumph is made more visible than failure, you systematically over-estimate
-your chances of succeeding. As an outsider, you succumb to an illusion, and you mistake how minuscule
-the probability of success really is.
+Cheerfulness is largely a personality trait that remains constant throughout life.
+
+Trying to be happier is as futile as trying to be taller - Lykken and Tellegen, social scientists.
+
+The Swimmer's body illusion is also a self-illusion.
+
+It's important to give a wide berth to tips and advices from self-help authors. For billions of people, these
+pieces of advice are unlikely to help.
