@@ -41,6 +41,7 @@ export const SIDEBAR = {
     { text: 'Reciprocity', link: 'en/reciprocity' },
     { text: 'Confirmation Bias', link: 'en/confirmation-bias' },
     { text: 'Authority Bias', link: 'en/authority-bias' },
+    { text: 'Induction', link: 'en/induction' },
 
     // { text: 'Another Section', header: true },
     // { text: 'Page 4', link: 'en/page-4' },

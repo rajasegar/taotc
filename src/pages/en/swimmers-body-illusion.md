@@ -8,6 +8,8 @@ layout: ../../layouts/MainLayout.astro
 
 Confusing selection factors with results
 
+![Swimmer's Body](/images/swimmers-body.jpg)
+
 Whenever we confuse selection factors with results, we fall prey to what Taleb calls the `swimmer's body illusion`.
 
 Cheerfulness is largely a personality trait that remains constant throughout life.

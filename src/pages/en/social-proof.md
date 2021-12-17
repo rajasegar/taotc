@@ -1,14 +1,16 @@
 ---
 title: Social Proof
-description: Lorem ipsum dolor sit amet - 2
+description: If 50 Million people say something foolish, it is foolish
 layout: ../../layouts/MainLayout.astro
 ---
 
-### If 50 Million People Say Something Foolish
+### If 50 Million People Say Something Foolish, it is foolish
 
-People systematically over-estimate their chances of success.
+#### Herd instinct
+Social proof, sometimes roughly termed as the `herd instinct`, dictates that individuals
+feel they are behaving correctly when they act the same as other people.
 
+![Peer pressure](/images/stock-market.jpg)
 
-In daily life, because triumph is made more visible than failure, you systematically over-estimate
-your chances of succeeding. As an outsider, you succumb to an illusion, and you mistake how minuscule
-the probability of success really is.
+Peer pressure
+
