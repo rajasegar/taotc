@@ -42,6 +42,9 @@ export const SIDEBAR = {
     { text: 'Confirmation Bias', link: 'en/confirmation-bias' },
     { text: 'Authority Bias', link: 'en/authority-bias' },
     { text: 'Induction', link: 'en/induction' },
+    { text: 'In-group Out-group bias', link: 'en/in-group-out-group' },
+    { text: 'Ambiguity Aversion', link: 'en/ambiguity-aversion' },
+    { text: 'Default Effect', link: 'en/default-effect' },
 
     // { text: 'Another Section', header: true },
     // { text: 'Page 4', link: 'en/page-4' },
