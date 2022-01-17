@@ -1,14 +1,19 @@
 ---
 title: Confirmation Bias
-description: Lorem ipsum dolor sit amet - 2
+description: Beware the Special Case
 layout: ../../layouts/MainLayout.astro
 ---
 
 ### Beware the Special Case
 
-People systematically over-estimate their chances of success.
+![Concorde](/images/confirmation-bias.jpg)
+
+The confirmation bias is the mother of all misconceptions.
+
+It is the tendency to interpret new information so that it becomes 
+compatible with our existing theories, beliefs and convictions.
+In other words, we filter out any new information that contradicts our
+existing views (disconfirming evidence). This is a dangerous practice.
 
 
-In daily life, because triumph is made more visible than failure, you systematically over-estimate
-your chances of succeeding. As an outsider, you succumb to an illusion, and you mistake how minuscule
-the probability of success really is.
+
