@@ -40,6 +40,7 @@ export const SIDEBAR = {
     { text: 'Sunk Cost Fallacy', link: 'en/sunk-cost-fallacy' },
     { text: 'Reciprocity', link: 'en/reciprocity' },
     { text: 'Confirmation Bias', link: 'en/confirmation-bias' },
+    { text: 'Confirmation Bias (Part 2)', link: 'en/confirmation-bias-2' },
     { text: 'Authority Bias', link: 'en/authority-bias' },
     { text: 'Induction', link: 'en/induction' },
     { text: 'In-group Out-group bias', link: 'en/in-group-out-group' },

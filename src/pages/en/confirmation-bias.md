@@ -15,5 +15,10 @@ compatible with our existing theories, beliefs and convictions.
 In other words, we filter out any new information that contradicts our
 existing views (disconfirming evidence). This is a dangerous practice.
 
-
+### See also
+- Availability Bias
+- Feature-Positive Effect
+- Coincidence
+- Forer Effect
+- Illusion of Attention
 

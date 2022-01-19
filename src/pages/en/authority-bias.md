@@ -1,14 +1,20 @@
 ---
 title: Authority Bias
-description: Lorem ipsum dolor sit amet - 2
+description: Don't Bow to Authority
 layout: ../../layouts/MainLayout.astro
 ---
 
 ### Don't Bow to Authority
 
-People systematically over-estimate their chances of success.
+Authorities pose two main problems to clear thinking: first, their track records
+are often sobering.
 
+Never has a group of experts failed so spectacularly.
 
-In daily life, because triumph is made more visible than failure, you systematically over-estimate
-your chances of succeeding. As an outsider, you succumb to an illusion, and you mistake how minuscule
-the probability of success really is.
+Authorities crave recognition and constantly find ways to reinforce their status.
+
+Authorities changes much life fashion does, and society follows it as much.
+
+Whenever you are about to make a decision, think about which authority figures might 
+be exerting an influence on your reasoning. And when you encounter one in the flesh,
+do your best to challenge him or her.
