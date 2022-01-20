@@ -1,5 +1,5 @@
 ---
-title: Ambiguity Aversion
+title: Illusion of Skill
 description: Lorem ipsum dolor sit amet - 2
 layout: ../../layouts/MainLayout.astro
 ---
@@ -14,5 +14,3 @@ Risk means that the probabilities are known.
 Uncertainty means that the probabilities are unknown.
 
 On the basis of risk, you can decide whether or not to take a gamble.
-
-### See also

@@ -48,7 +48,7 @@ export const SIDEBAR = {
     { text: 'Default Effect', link: 'en/default-effect' },
     { text: 'Envy', link: 'en/envy' },
     { text: 'Personification', link: 'en/personification' },
-    { text: 'Illusion of Attention', link: 'en/illustion-of-attention' },
+    { text: 'Illusion of Attention', link: 'en/illusion-of-attention' },
     { text: 'Strategic Misrepresentation', link: 'en/strategic-misrepresentation' },
     { text: 'Overthinking', link: 'en/overthinking' },
     { text: 'Planning Fallacy', link: 'en/planning-fallacy' },
