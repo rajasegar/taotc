@@ -42,6 +42,7 @@ export const SIDEBAR = {
     { text: 'Confirmation Bias', link: 'en/confirmation-bias' },
     { text: 'Confirmation Bias (Part 2)', link: 'en/confirmation-bias-2' },
     { text: 'Authority Bias', link: 'en/authority-bias' },
+    { text: 'Contrast Effect', link: 'en/contrast-effect' },
     { text: 'Induction', link: 'en/induction' },
     { text: 'In-group Out-group bias', link: 'en/in-group-out-group' },
     { text: 'Ambiguity Aversion', link: 'en/ambiguity-aversion' },
