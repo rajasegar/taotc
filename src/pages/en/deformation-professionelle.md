@@ -1,16 +1,15 @@
 ---
 title: Deformation Professionelle
-description: Lorem ipsum dolor sit amet - 2
+description: Those wielding hammer see only nails
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### Those wielding hammer see only nails
 
-We favor known probabilities over unknown ones.
+![Hammer](/images/hammer.jpg)
 
-Ellsberg Paradox
+If you ask someone the crux of a problem, they usually link it to their own area of expertise.
 
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
+The Man with the Hammer Tendency
 
-On the basis of risk, you can decide whether or not to take a gamble.
+### See also

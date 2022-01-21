@@ -1,16 +1,9 @@
 ---
 title: Intention to Treat Errors
-description: Lorem ipsum dolor sit amet - 2
+description: Speed demons make safe drivers
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### Speed demons make safe drivers
 
-We favor known probabilities over unknown ones.
-
-Ellsberg Paradox
-
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
-
-On the basis of risk, you can decide whether or not to take a gamble.
+False categorization of failed projects

@@ -1,16 +1,12 @@
 ---
 title: Strategic Misrepresentation
-description: Lorem ipsum dolor sit amet - 2
+description: Hot air
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### Hot air
 
-We favor known probabilities over unknown ones.
+The more at stake the more exaggerated your assertions become
 
-Ellsberg Paradox
 
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
-
-On the basis of risk, you can decide whether or not to take a gamble.
+### See also

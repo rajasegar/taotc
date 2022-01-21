@@ -1,16 +1,15 @@
 ---
 title: Illusion of Skill
-description: Lorem ipsum dolor sit amet - 2
+description: The Boat matters more than the rowing
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### The Boat matters more than the rowing
 
-We favor known probabilities over unknown ones.
+![Rowing](/images/rowing.jpg)
 
-Ellsberg Paradox
+Luck plays a bigger role than the skill does.
 
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
+Skill is necessary not sufficient.
 
-On the basis of risk, you can decide whether or not to take a gamble.
+### See also

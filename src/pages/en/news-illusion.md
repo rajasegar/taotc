@@ -1,16 +1,9 @@
 ---
 title: News Illusion
-description: Lorem ipsum dolor sit amet - 2
+description: Why You shouldn't read the news
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### Why You shouldn't read the news
 
-We favor known probabilities over unknown ones.
-
-Ellsberg Paradox
-
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
-
-On the basis of risk, you can decide whether or not to take a gamble.
+We are incredibly well-informed yet we incredibly know little.

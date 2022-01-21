@@ -1,16 +1,11 @@
 ---
 title: Feature Positive effect
-description: Lorem ipsum dolor sit amet - 2
+description: Why checklists deceive you
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### Why checklists deceive you
 
-We favor known probabilities over unknown ones.
+![Checklist](/images/checklist.jpg)
 
-Ellsberg Paradox
-
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
-
-On the basis of risk, you can decide whether or not to take a gamble.
+What exists means a lot more than and what is missing

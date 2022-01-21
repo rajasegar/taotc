@@ -1,16 +1,9 @@
 ---
 title: Planning Fallacy
-description: Lorem ipsum dolor sit amet - 2
+description: Why you take on too much
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### Why you take on too much
 
-We favor known probabilities over unknown ones.
-
-Ellsberg Paradox
-
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
-
-On the basis of risk, you can decide whether or not to take a gamble.
+![Planning Fallacy](/images/planning-fallacy.jpg)

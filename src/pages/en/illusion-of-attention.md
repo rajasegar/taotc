@@ -1,16 +1,15 @@
 ---
 title: Illusion of Attention
-description: Lorem ipsum dolor sit amet - 2
+description: You have no idea what you are overlooking 
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### You have no idea what you are overlooking
 
-We favor known probabilities over unknown ones.
+![Attention](/images/attention.jpg)
 
-Ellsberg Paradox
+We are confident that we notice everything that takes place in front of us.
 
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
+We notice only what we know to notice.
 
-On the basis of risk, you can decide whether or not to take a gamble.
+### See also

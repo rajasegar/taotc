@@ -1,16 +1,14 @@
 ---
 title: Zeignark Effect
-description: Lorem ipsum dolor sit amet - 2
+description: Mission accomplished
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### Mission accomplished
 
-We favor known probabilities over unknown ones.
+![Nasa mission](/images/nasa-mission.jpg)
 
-Ellsberg Paradox
+We seldom forget uncompleted tasks
 
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
+### See also
 
-On the basis of risk, you can decide whether or not to take a gamble.

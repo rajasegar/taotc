@@ -1,16 +1,14 @@
 ---
 title: Overthinking
-description: Lorem ipsum dolor sit amet - 2
+description: Where is the OFF switch
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### Where is the OFF switch
 
-We favor known probabilities over unknown ones.
+![Off Switch](/images/off-switch.jpg)
 
-Ellsberg Paradox
+If you think too much you cut off your mind from the wisdom of feelings.
 
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
 
-On the basis of risk, you can decide whether or not to take a gamble.
+### See also

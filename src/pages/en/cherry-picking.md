@@ -1,16 +1,11 @@
 ---
 title: Cherry Picking
-description: Lorem ipsum dolor sit amet - 2
+description: Drawing the bull's eye around the arrow
 layout: ../../layouts/MainLayout.astro
 ---
 
-### The difference between Risk and Uncertainty
+### Drawing the bull's eye around the arrow
 
-We favor known probabilities over unknown ones.
+![Bull's eye](/images/bullseye.jpg)
 
-Ellsberg Paradox
-
-Risk means that the probabilities are known.
-Uncertainty means that the probabilities are unknown.
-
-On the basis of risk, you can decide whether or not to take a gamble.
+Selecting and showcasing the most attractive features and hiding the rest.
