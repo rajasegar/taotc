@@ -6,3 +6,5 @@ layout: ../../layouts/MainLayout.astro
 
 ### Stone age hunt for the scape goat
 
+![Scape goat](/images/scape-goat.jpg)
+
