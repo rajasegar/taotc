@@ -16,4 +16,5 @@ A compendium of cognitive biases, thinking errors and bad judgements.
 
 ## Image credits
 - [Unsplash](https://unsplash.com)
-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theblacksheep.community%2Fscapegoat-theory%2F&psig=AOvVaw0ksnIAjA7C7Xk2iwF_prgq&ust=1643610900626000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCLiYovbt2PUCFQAAAAAdAAAAABAD
+- [Google](https://google.com)
+- [Wikipedia](https://wikipedia.com)
