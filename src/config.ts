@@ -62,7 +62,7 @@ export const SIDEBAR = {
     { text: 'Scarcity Error', link: 'en/scarcity-error' },
     { text: 'Base-Rate Neglect', link: 'en/base-rate-neglect' },
     { text: 'Gambler\'s Fallacy', link: 'en/gamblers-fallacy' },
-    { text: 'The Anchor', link: 'en/anchor' },
+    { text: 'The Anchor', link: 'en/the-anchor' },
     { text: 'Induction', link: 'en/induction' },
     { text: 'Loss Aversion', link: 'en/loss-aversion' },
     { text: 'Social Loafing', link: 'en/social-loafing' },
