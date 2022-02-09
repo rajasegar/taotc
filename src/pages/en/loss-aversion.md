@@ -1,10 +1,10 @@
 ---
 title: Loss Aversion
-description: Don't cling to things
+description: Why Evil Strikes Harder Than Good
 layout: ../../layouts/MainLayout.astro
 ---
 
-### Don't cling to things
+### Why Evil Strikes Harder Than Good
 
 ![Real Estate](/images/real-estate.jpg)
 

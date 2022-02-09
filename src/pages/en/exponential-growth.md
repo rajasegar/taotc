@@ -1,10 +1,10 @@
 ---
-title: Winner's Curse
-description: Curb Your Enthusiasm
+title: Exponential Growth
+description: Stumped by a sheet of paper
 layout: ../../layouts/MainLayout.astro
 ---
 
-### Curb Your Enthusiasm
+### Stumped by a sheet of paper
 
 ![Real Estate](/images/real-estate.jpg)
 
