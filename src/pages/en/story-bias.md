@@ -17,6 +17,8 @@ Stories attract us, abstract details repel us.
 We simply build the meaning into stories afterward. Stories are dubiious entitites.
 They simplify and distort reality, and filter things that dont' fit.
 
+![Story bias 2](/images/story-bias2.jpg)
+
 From our own life stories to global events, we shape everything into meaningful stories.
 Doing so distorts reality and affects the quality of our decisions, but there is a remedy.
 

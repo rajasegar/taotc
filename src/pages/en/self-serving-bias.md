@@ -1,5 +1,5 @@
 ---
-title: Not-Invented-Here Syndrome
+title: Self-serving Bias
 description: Why You Can't beat Home made
 layout: ../../layouts/MainLayout.astro
 ---
