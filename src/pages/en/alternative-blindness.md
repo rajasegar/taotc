@@ -1,5 +1,5 @@
 ---
-title: Domain dependence
+title: Alternative Blindness
 description: Knowledge is non-transferable
 layout: ../../layouts/MainLayout.astro
 ---
