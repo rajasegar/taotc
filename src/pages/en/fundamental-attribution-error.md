@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 
 ### Never Ask a Writer If the Novel is Autobiagraphical
 
-![Pilot](/images/pilot.jpg)
+![biography](/images/biography.jpg)
 
 
 ### See also

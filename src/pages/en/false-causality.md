@@ -6,5 +6,5 @@ layout: ../../layouts/MainLayout.astro
 
 ### Why You Shouldn't Believe in the Stork
 
-![Checklist](/images/checklist.jpg)
+![stork](/images/stork.jpg)
 

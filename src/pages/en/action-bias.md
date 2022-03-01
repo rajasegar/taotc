@@ -1,10 +1,10 @@
 ---
-title: Alternative Paths
-description: Congratulations, You've won Russian Roulette
+title: Action Bias
+description: Why waiting and watching is torture?
 layout: ../../layouts/MainLayout.astro
 ---
 
-### Congratulations, You've won Russian Roulette
+### Why waiting and watching is torture?
 
 ![Revolver](/images/revolver.jpg)
 
