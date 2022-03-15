@@ -20,3 +20,10 @@ The Swimmer's body illusion is also a self-illusion.
 
 It's important to give a wide berth to tips and advices from self-help authors. For billions of people, these
 pieces of advice are unlikely to help.
+
+### See also
+- [Halo effect](/en/halo-effect)
+- [Outcome bias](/en/outcome-bias)
+- [Self-selection bias](/en/self-selection-bias)
+- [Alternative blindness](/en/alternative-blindness)
+- [Fundamental Attribution Error](/en/fundamental-attribution-error)
