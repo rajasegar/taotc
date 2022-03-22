@@ -14,3 +14,8 @@ feel they are behaving correctly when they act the same as other people.
 
 Peer pressure
 
+### See also
+- [Groupthink](/en/groupthink)
+- [Social Loafing](/en/social-loafing)
+- [In-group Out-group Bias](/en/in-group-out-group)
+- [False Consensus effect](/en/false-consensus-effect)

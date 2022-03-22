@@ -18,3 +18,7 @@ When it comes to pattern recognition, we are over-sensitive.
 Regain your scepticism.
 If you think you have discovered a pattern, first consider it pure chance.
 
+### See also
+- [Illusion of Control](/en/illusion-of-control)
+- [Coincidence](/en/coincidence)
+- [False Causality](/en/false-causality)

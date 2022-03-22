@@ -43,3 +43,10 @@ Rational decision-making requires you to forget about the costs incurred to date
 No matter how much you have already invested, only your assessment of the future costs
 and benefits counts.
 
+### See also
+- [It'll Get Worse before it gets Better fallacy](/en/gets-worse-before-gets-better)
+- [Inability to Close Doors](/en/inability-to-close-doors)
+- [Endowment Effect](/en/endowment-effect)
+- [Effort Justification](/en/effort-justification)
+- [Loss Aversion](/en/loss-aversion)
+- [Outcome Bias](/en/outcome-bias)

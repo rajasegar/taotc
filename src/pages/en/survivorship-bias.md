@@ -22,8 +22,8 @@ To elude the `survivorship bias`, you must do the digging yourself.
 You will also come across `survivorship bias` when dealing with money and risk.
 
 ### See also
-- Self-serving Bias
-- Beginner's Luck
-- Base-Rate Neglect
+- [Self-serving Bias](/en/self-serving-bias)
+- [Beginner's Luck](/en/beginners-luck)
+- [Base-Rate Neglect](/en/base-rate-neglect)
 - [Induction](/en/induction)
 
