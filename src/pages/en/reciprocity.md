@@ -27,7 +27,7 @@ Revenge breeds counter-revenge and you soon find yourself in a full-scale war.
 So compelling is the pull of reciprocity even when the stakes are far less high.
 
 ### See also
-- Framing
-- Incentive Super-Response Tendency
-- Liking Bias
-- Motivation Crowding
+- [Framing](/en/framing)
+- [Incentive Super-Response Tendency](/en/incentive-super-response-tendency)
+- [Liking Bias](/en/liking-bias)
+- [Motivation Crowding](/en/motivation-crowding)

@@ -44,7 +44,7 @@ export const SIDEBAR = {
     { text: 'Authority Bias', link: 'en/authority-bias' },
     { text: 'Contrast Effect', link: 'en/contrast-effect' },
     { text: 'Availabiity Bias', link: 'en/availability-bias' },
-    { text: 'It\'ll-Get-Worse-Before-It-Getters-Better Fallacy', link: 'en/gets-worse-before-gets-better' },
+    { text: 'It\'ll-Get-Worse-Before-It-Gets-Better Fallacy', link: 'en/gets-worse-before-gets-better' },
     { text: 'Story Bias', link: 'en/story-bias' },
     { text: 'Hindsight Bias', link: 'en/hindsight-bias' },
     { text: 'Overconfidence effect', link: 'en/overconfidence-effect' },
