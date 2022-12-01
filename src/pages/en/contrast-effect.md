@@ -28,10 +28,13 @@ but we dont notice because inflation happens over time.
 The contrast effect can ruin your whole life.
 
 ### See also
-- Availability Bias
-- Endowment Effect
-- Halo Effect
-- Social Comparison Bias
-- Regression to Mean
-- Scarcity Error
-- Framing
+- [Availability Bias](/en/availability-bias)
+- [Endowment Effect](/en/endowment-effect)
+- [Halo Effect](/en/halo-effect)
+- [Social Comparison Bias](/en/social-comparison-bias)
+- [Regression to Mean](/en/regression-to-mean)
+- [Scarcity Error](/en/scarcity-error)
+- [Framing](/en/framing)
+
+### Related
+- [The Contrast Effect: When Comparison Enhances Differences](https://effectiviology.com/contrast-effect/)

@@ -23,3 +23,6 @@ They make a serious effort to understand the complexity of a subject and to comm
 ### See also
 - [Authority Bias](/en/authority-bias)
 - [Domain Dependency](/en/domain-dependency)
+
+### Related
+- [To upgrade from Chauffeur knowledge...](https://economictimes.indiatimes.com/wealth/invest/to-upgrade-from-chauffeur-knowledge-to-planck-knowledge-learn-from-others-investing-experience/articleshow/77032745.cms)
