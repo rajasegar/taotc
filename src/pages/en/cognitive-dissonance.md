@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 
 ### Sweet Little Lies
 
-![Real Estate](/images/real-estate.jpg)
+![Real Estate](/images/The_Fox_and_the_Grapes.jpeg)
 
 
 ### How to avoid?
